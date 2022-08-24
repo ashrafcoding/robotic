@@ -12,5 +12,5 @@ In all other cases, the application should print just the number.
 Add other elements like buttons, links, styles, etc., if your design requires - it's optional but
 welcomed. The result should be displayed on a page of a running Meteor]S application.
 
-# run the application
-# meteor run
+## run the application
+## meteor run
